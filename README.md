@@ -1,6 +1,6 @@
 # Introspection tools: proof-of-concept experiments
 
-Code for the two proof-of-concept experiments in *Introspection Tools Help LLMs Understand and Control Themselves*.
+Code for the two proof-of-concept experiments in *Introspection Tools Help LLMs Understand and Control Themselves* (NeurIPS 2026 position paper).
 
 
 ## Layout
