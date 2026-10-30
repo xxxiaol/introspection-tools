@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+sympy
+antlr4-python3-runtime==4.11   # required by sympy.parsing.latex
+openai>=1.30
+tqdm
+torch>=2.3          # misinfo only
+transformers>=4.51  # misinfo only
+einops              # misinfo only
+pytest              # tests
